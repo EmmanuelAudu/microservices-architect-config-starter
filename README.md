@@ -6,7 +6,7 @@ Helm Change
 this is an edit
 
 This is by Emmanuel.
-
+Classes are done!
 Frank was here too.
 
 Hello Valentine
